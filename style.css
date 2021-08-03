@@ -62,13 +62,26 @@
     color: #777;
     visibility: hidden;
   }
+  #resp {
+    font-size: 20px;
+    text-align: center;
+    color: #777;
+  }
   #results {
     font-size: 14px;
     font-weight: bold;
     border: 1px solid #ddd;
     padding: 15px;
     text-align: left;
-    min-height: 150px;
+    min-height: 100px;
+  }
+  #response {
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: left;
+    min-height: 100px;
   }
   #start_button {
     border: 0;
